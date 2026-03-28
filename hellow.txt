@@ -3,3 +3,9 @@ the remote just to establish connection and push the changes
 
 git pull to pull the changes 
 git feach to have over veiew what is the changes 
+
+GIT CHECKOUT TO CREAT A EMPTY BRANCH 
+
+TO HAVE THE Same content without the current commit just empty 
+git checkout -b == creat new branch and sweched on it 
+
