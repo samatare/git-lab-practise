@@ -1,2 +1,5 @@
 the clone when there is a content on the remote repo 
 the remote just to establish connection and push the changes 
+
+git pull to pull the changes 
+git feach to have over veiew what is the changes 
