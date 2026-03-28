@@ -1,1 +1,2 @@
-hellow
+the clone when there is a content on the remote repo 
+the remote just to establish connection and push the changes 
