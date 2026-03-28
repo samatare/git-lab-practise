@@ -3,3 +3,19 @@ the remote just to establish connection and push the changes
 
 git pull to pull the changes 
 git feach to have over veiew what is the changes 
+
+
+the cherry-pic take a spacific commit to my branch or take a commit from the maint to branch and from branch to main 
+using the sha commit cherry-pic sha
+steps 
+
+
+to go the the old commit use git checkout sha-of the commit 
+or git checkout Head ~1  == it will go back one commit 
+
+git reset ==delet all the after this 
+git push --forc == have to because the reset delet the history old a-b-c-d 
+after reset a-b beacuse i need b 
+
+git revert creat a new commit with the revert commet old a-b-c-d 
+the revert a-b-c-d-e 
